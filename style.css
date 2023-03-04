@@ -1,0 +1,23 @@
+* {
+    color: aquamarine;
+    background-color: black;
+}
+main {
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.movie {
+    color: aquamarine;
+}
+
+h1,
+h3,
+p {
+    text-decoration: none;
+    color: aquamarine;
+}
+main div {
+    width: 25%;
+}
